@@ -29,7 +29,7 @@ export const Footer = () => {
           <SocialYoutube />
         </div>
         <p className="mt-6">
-          &copy; 2024 Your Company, Inc. All rights reserved.
+          &copy; 2024 Made By Yash Bhujbal, Inc. All rights reserved.
         </p>
       </div>
     </footer>
